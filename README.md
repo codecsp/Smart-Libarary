@@ -18,14 +18,14 @@
 <table width="100%" border="0">
   
   <tr>    
-    <td><img src="images/1/1.jpeg" height="700" width="300" alt="" align="left" /></td>
-    <td><img src="images/1/2.jpeg" height="700" width="300" alt="" align="center" /></td>
-    <td><img src="images/1/3.jpeg" height="700" width="300" alt="" align="right"/></td>
+    <td><img src="images/1/1.jpeg" height="500" width="300" alt="" align="left" /></td>
+    <td><img src="images/1/2.jpeg" height="500" width="300" alt="" align="center" /></td>
+    <td><img src="images/1/3.jpeg" height="500" width="300" alt="" align="right"/></td>
   </tr>
 
   <tr>    
-      <td><img src="images/1/4.jpeg" height="700" width="300" alt="" align="left" /></td>
-      <td><img src="images/1/5.jpeg" height="700" width="300" alt="" align="center" /></td>
-      <td><img src="images/1/6.jpeg" height="700" width="300" alt="" align="right"/></td>
+      <td><img src="images/1/4.jpeg" height="500" width="300" alt="" align="left" /></td>
+      <td><img src="images/1/5.jpeg" height="500" width="300" alt="" align="center" /></td>
+      <td><img src="images/1/6.jpeg" height="500" width="300" alt="" align="right"/></td>
   </tr>
 </table>
