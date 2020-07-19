@@ -14,20 +14,18 @@
 
 # screenshots of Student Module
 
-ul {
-  white-space: nowrap;
-}
 
-ul, li {
-  list-style: none;
-  display: inline;
-}
+<table width="100%" border="0">
+  
+  <tr>    
+    <td><img src="images/1/1.jpeg" height="800" width="200" alt="" align="left" /></td>
+    <td><img src="images/1/2.jpeg" height="800" width="200" alt="" align="center" /></td>
+    <td><img src="images/1/3.jpeg" height="800" width="200" alt="" align="right"/></td>
+  </tr>
 
-<ul>
-    <li><img src="images/1/1.jpeg" height="500" width="300"></li>
-    <li><img src="images/1/2.jpeg" height="500" width="300"></li>
-    <li><img src="images/1/3.jpeg" height="500" width="300"></li>
-    <li><img src="images/1/4.jpeg" height="500" width="300"></li>
-    <li><img src="images/1/5.jpeg" height="500" width="300"></li>
-    <li><img src="images/1/6.jpeg" height="500" width="300"></li>
-</ul>
+  <tr>    
+      <td><img src="images/1/4.jpeg" height="800" width="200" alt="" align="left" /></td>
+      <td><img src="images/1/5.jpeg" height="800" width="200" alt="" align="center" /></td>
+      <td><img src="images/1/6.jpeg" height="800" width="200" alt="" align="right"/></td>
+  </tr>
+</table>
