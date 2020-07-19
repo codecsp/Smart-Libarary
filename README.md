@@ -2,11 +2,9 @@
 
 <ul>
 	<li>Developed two android applications enabling the students and the librarian to track books</li>
-	<li>Reduced paperwork and time involved</li>
-	
+	<li>Reduced paperwork and time involved </li>
 </ul>
-
-<h2 Project Consists of two modules </h1>
-
-# 1. Student Module
-# 2. Admin Module(Librarian)
+<ol>
+	<li> Student Module</li>
+	<li>Admin Module (Librarian)</li>
+</ol>
