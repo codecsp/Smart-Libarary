@@ -14,11 +14,14 @@
 
 # screenshots of Student Module
 
+
+
+
 <ul>
-    <li><img src="images/1/1.jpeg"></li>
-    <li><img src="images/1/2.jpeg"></li>
-    <li><img src="images/1/3.jpeg"></li>
-    <li><img src="images/1/4.jpeg"></li>
-    <li><img src="images/1/5.jpeg"></li>
-    <li><img src="images/1/6.jpeg"></li>
+    <li><img class="white-space: nowrap;" src="images/1/1.jpeg"></li>
+    <li><img class="white-space: nowrap;" src="images/1/2.jpeg"></li>
+    <li><img class="white-space: nowrap;" src="images/1/3.jpeg"></li>
+    <li><img class="white-space: nowrap;" src="images/1/4.jpeg"></li>
+    <li><img class="white-space: nowrap;" src="images/1/5.jpeg"></li>
+    <li><img class="white-space: nowrap;" src="images/1/6.jpeg"></li>
 </ul>
